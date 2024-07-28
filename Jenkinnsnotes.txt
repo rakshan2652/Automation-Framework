@@ -1,0 +1,16 @@
+Jenkins open source : 
+
+- we can share the local automation code via jenkins.
+- Other Automation tester can run the script via Jenkins
+- local code should move to central location, where jenkins can access it.
+- Other automtion testers not required to do any step in his local machine, with limited access
+  can run the scipt.
+- using jenkins , we can do set up automatically, whenever new build his publised. jenkns can be picked automatically.
+
+storgae:
+
+- GIT repository,
+- SVN 
+
+rakshan2652
+https://github.com/rakshan2652/Automation-Framework.git
